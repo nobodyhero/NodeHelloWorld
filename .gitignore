@@ -1,4 +1,5 @@
 #Node packages
 node_modules/
+.vscode/
 !.gitkeep
 
